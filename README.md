@@ -27,4 +27,4 @@ Comparative view of sales share across age segments (Teenagers, Adults, Seniors)
 A pie chart illustrating the distribution of orders across platforms like Amazon, Flipkart, Myntra, Meesho, and others.
 
 # Technology Used:
-A powerful spreadsheet application that lets users organize, analyze, and visualize data using a grid of cells arranged in rows and columns. It supports formulas, functions, and tools like pivot tables, charts, and conditional formatting to streamline calculations, uncover trends, and present insights effectively 
+Excel which is a powerful spreadsheet application that lets users organize, analyze, and visualize data using a grid of cells arranged in rows and columns. It supports formulas, functions, and tools like pivot tables, charts, and conditional formatting to streamline calculations, uncover trends, and present insights effectively 
