@@ -12,17 +12,17 @@ Assess order statuses and sales channels
 Present clear visual metrics to support business strategies
 
 # Key Features
-# Structured Data & Interactive Controls:
+1. Structured Data & Interactive Controls:
 Organized data using pivot tables and connected slicers (Month, Category, Channel) for seamless drill-down and filtering.
-# Combo Chart:
+2.  Combo Chart:
 A dynamic Bar + Line chart juxtaposing monthly sales totals with order count, highlighting fluctuations in volume and value.
-# Status & Demographic Pie Charts
+3.  Status & Demographic Pie Charts
 Quick visual cues on order outcomes (Delivered, Cancelled, Refunded, Returned) and gender-based sales distribution.
-# Top 10 States Horizontal Bar
+4. Top 10 States Horizontal Bar
 A leadership chart showcasing which states contributed most to revenue, sorted for clarity.
-# Age Group vs. Gender Clustered Bar Chart
+5. Age Group vs. Gender Clustered Bar Chart
 Comparative view of sales share across age segments (Teenagers, Adults, Seniors) and gender, illuminating purchasing behavior.
-# Sales Channel Breakdown
+6. Sales Channel Breakdown
 A pie chart illustrating the distribution of orders across platforms like Amazon, Flipkart, Myntra, Meesho, and others.
 
 # Technology Used:
