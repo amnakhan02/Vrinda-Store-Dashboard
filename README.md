@@ -2,14 +2,15 @@
 An interactive Excel dashboard that transforms raw sales data into actionable insights by analyzing performance across months, regions, demographics, and sales channels.
 
 # Project Overview
-This Excel-based project presents a comprehensive visualization of Vrinda Store’s sales data for the year 2022. Designed to empower stakeholders with clarity and interactivity, the dashboard enables dynamic slicer-driven exploration across multiple dimensions—including time, geography, product categories, demographics, and sales platforms.
+This Excel-based project presents a comprehensive visualization of Vrinda Store’s sales data for 2022, designed for dynamic exploration and strategic decision-making. At its core, it uses a clean, contiguous dataset structured in Excel tables and pivot tables to enable rapid aggregation and filtering. Interactive slicers empower users to drill down by month, category, channel, and region—offering a self-service experience, as recommended by Microsoft and dashboard best-practice guides.
+Visualizations are thoughtfully selected to match data types—combo charts for trends, pie charts for distribution, and bar charts for rankings—aligning with established visualization principles.
 
 # Objectives:
-Help identify peak months and seasonal trends
-Pinpoint top-performing states and regions
-Understand customer demographics
-Assess order statuses and sales channels
-Present clear visual metrics to support business strategies
+1. Help identify peak months and seasonal trends
+2. Pinpoint top-performing states and regions
+3. Understand customer demographics
+4. Assess order statuses and sales channels
+5. Present clear visual metrics to support business strategies
 
 # Key Features
 1. Structured Data & Interactive Controls:
